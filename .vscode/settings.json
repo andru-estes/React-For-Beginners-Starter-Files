@@ -3,11 +3,15 @@
     "javascript": "javascriptreact"
   },
   "emmet.preferences": {},
+  "editor.formatOnSave": true,
+  // "prettier.eslintIntegration": true,
   "editor.defaultFormatter": "esbenp.prettier-vscode",
   "[javascript]": {
-    "editor.defaultFormatter": "esbenp.prettier-vscode"
+    "editor.defaultFormatter": "svipas.prettier-plus"
   },
   "auto-close-tag.activationOnLanguage": [
+
+
     "xml",
     "php",
     "blade",
